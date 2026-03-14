@@ -1,1 +1,15 @@
+scikit-allel
+numpy
+zarr
+pandas 
+json
+tqdm 
+glob
+ast
+seaborn
+matplotlib
+scikit-learn
+scipy
+stats
+
 
