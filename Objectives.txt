@@ -1,0 +1,32 @@
+Primary Research Objectives ;,
+1. Establish a Genomic Foundation for Psychiatric Disease Risk Modeling
+     Integrate large-scale GWAS summary statistics from the Psychiatric Genomics Consortium with population genotype data from the 1000 Genomes Project
+     Harmonize genetic variants across heterogeneous datasets through quality control, allele matching, and strand correction
+     Create a reproducible computational pipeline for calculating individual-level polygenic risk scores (PRS) for schizophrenia
+
+2. Quantify Aggregate Genetic Liability to Schizophrenia
+    Calculate polygenic risk scores that capture genome-wide association signals
+    Characterize the distribution of genetic risk across diverse global populations from the 1000 Genomes Project
+
+3. Evaluate Population-Level Genetic Risk Stratification
+    Assess variation in schizophrenia genetic risk across different continental ancestry groups
+    Identify how polygenic risk is distributed in the population (e.g., what percentage of individuals fall into high/medium/low risk categories)
+    Analyze the relationship between genetic architecture and population ancestry
+
+4. Establish Infrastructure for Multi-Modal Integration
+Build a robust, modular pipeline that can serve as a foundation for integrating additional data modalities
+Create standardized data formats and quality control benchmarks that will enable seamless incorporation of:
+Transcriptomic data (gene expression patterns in relevant tissues)
+Neuroimaging data (structural and functional brain measurements)
+Demonstrate how polygenic risk can be combined with molecular and imaging phenotypes to improve disease prediction
+Secondary/Supporting Objectives
+
+5. Implement Rigorous Quality Control Standards
+Perform variant-level QC (removing multi-allelic variants, low-quality calls)
+Implement individual-level QC (handling missing data, population structure analysis)
+Document all filtering steps and retention metrics for reproducibility
+
+6. Create a Reproducible Research Workflow
+Develop a transparent, well-documented pipeline that others can adapt
+Establish version control and checkpoint systems for large genomic datasets
+Enable scalability to other psychiatric conditions (bipolar disorder, depression, etc.)
