@@ -79,7 +79,6 @@ Chromosome X modeled consistently, with future plans for sex‑aware refinement.
 plots from the simulations:, 
 
 ## Clusters amongst Ancestory.. 
-
 ![PCA Clusters..](plots/PCA_clusters.png)
 
 
@@ -92,7 +91,6 @@ plots from the simulations:,
 
 ## QQ amongst Ancestory.. 
 ![QQ Statistical Plot](plots/QQ_plot.png)
-<img src="plots/Manhatten_plot.png" width="600">
 
 
 
