@@ -1,4 +1,5 @@
 # Comprehensive Research Documentation
+NOTE: 
 Well,these are my research logs IM lazy I'll reflourish the proper README when it's published...:_) peace.
 
 
@@ -72,3 +73,27 @@ s Accountability Notes
 - Variance and mean dosage metrics computed and visualized.  
 - Ambiguous alleles excluded, allele harmonization added, strand ambiguity handled.  
 - Chromosome X modeled consistently, with future plans for sex‑aware refinement.
+
+the results I got
+Chromosome X modeled consistently, with future plans for sex‑aware refinement. Below are representative 
+plots from the simulations:, 
+
+## Clusters amongst Ancestory.. 
+
+![PCA Clusters..](plots/PCA_clusters.png)
+
+
+## The Manhatten plot.. 
+![Manhatten Plot](plots/Manhatten_plot.png)
+
+
+## Polygenic Risk Score(PRS) Distribution.. 
+![Polygenic Risk Score](plots/PRS_dist.png)
+
+## QQ amongst Ancestory.. 
+![QQ Statistical Plot](plots/QQ_plot.png)
+<img src="plots/Manhatten_plot.png" width="600">
+
+
+
+
