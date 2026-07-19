@@ -1,10 +1,5 @@
 # Comprehensive Research Documentation
-NOTE: 
-Well,these are my research logs IM lazy I'll reflourish the proper README when it's published...:_) peace.
 
-
-ALso,the final results and plots such as manhatten plot , PRS distribution acros individuals , QQ plots and Ancestoy clusters aren in the
-plots directory along with all the other plots, 
 # slight Nuance of the research before the logs (logs are extremely technical) : 
 This repository implements an end‑to‑end computational pipeline to model genetic risk for schizophrenia using openly available human genomics resources. The workflow integrates summary‑level GWAS results from the Psychiatric Genomics Consortium with individual‑level genotype data from the 1000 Genomes Project, performs rigorous variant‑level quality control (including X‑chromosome handling), and derives aggregate polygenic risk measures. The project is designed as a reproducible “SNP layer” that can later be extended to multimodal models combining genetics with neuroimaging and transcriptomic data for studying the highly polygenic architecture of psychiatric disorders. All analyses are implemented in Python via a single, documented Jupyter notebook
 
